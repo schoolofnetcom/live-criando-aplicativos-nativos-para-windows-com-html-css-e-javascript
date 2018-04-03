@@ -2,7 +2,7 @@
 
 ## Exemplo:
 
-[Clique aqui para baixar o instalador]()
+[Clique aqui para baixar o instalador](https://github.com/schoolofnetcom/live-criando-aplicativos-nativos-para-windows-com-html-css-e-javascript/releases/tag/v1.0.0-dev)
 
 ## O que vamos aprender?
 
